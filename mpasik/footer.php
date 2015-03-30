@@ -1,9 +1,9 @@
    </div>
    	<div>
+    <hr>
    		<div class="container"> 
    		<div class="text-right"> 
-   			<h5><a class="text-right" href="#">FAQ</a>
-   			<a class="text-right" href="#">Tentang Kami</a></h5>
+   			<h6> Copyright ©2015 5211100085 </h6> 
    		</div>
    			
    	</div>

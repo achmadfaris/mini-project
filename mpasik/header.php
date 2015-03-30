@@ -11,15 +11,9 @@
   	<!-- header -->
     <div>
     	<div class="container"> 
-    	<div class="col-lg-7"></div>
-    	<div class="col-lg-5">
-    	<form class="form-inline">
-    		<input type="text" class="form-control" placeholder="nama user">
-    		<input type="password" class="form-control" placeholder="kata sandi">
-   			<button class="btn btn-primary" type="submit">Masuk</button>
-    	</form>
-    		
-   		</div>    	
+        <div class="col-lg-2">
+        <img src="logo.png" class="img-responsive" alt="Responsible image"></div>
+      </div>   	<hr>
     </div>
     <!-- seacrch --> 
     <div>
@@ -39,10 +33,8 @@
 					<select class="form-control">
 						<option value="1">Hotel</option>
 						<option value="2">Wisma</option>
-						<option value="3">Rumah Kos</option>
-						<option value="4">Rumah Kontrak</option>
-						<option value="5">Apartemen</option>
-						<option value="6">Homestay</option>
+						<option value="3">Apartemen</option>
+						<option value="4">Homestay</option>
 					</select></div>
 				<div class="col-lg-2">
 					<button class="btn btn-primary" type="submit">Cari</button></div>
