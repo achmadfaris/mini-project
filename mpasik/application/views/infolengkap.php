@@ -59,6 +59,18 @@
                 <?php } ?>
             </div>
 
+            <div class="container">
+            <h3> Tinggalkan komentar dan testimoni anda </h3>
+            <label for="exampleInputNama1">Nama</label>
+            <input type="text" class="form-control" id="exampleInputNama1" placeholder="nama">
+            <label for="exampleInputEmail1">Email</label>
+            <input type="email" class="form-control" id="exampleInputEmail1" placeholder="email">
+            <label for="exampleInputEmail1">Isi komentar dan testimoni</label>
+            <textarea class="form-control" rows="3" id="InputKomentar1">
+            </textarea><p>
+            <button type="submit" class="btn">Kirim</button></p>
+            </div></form></div>
+            
         </div>    
 
      </div>
